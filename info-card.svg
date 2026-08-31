@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="498" viewBox="0 0 650 498" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+<style>.ln{opacity:0;transform:translateX(-8px);animation:in .45s ease-out forwards}@keyframes in{to{opacity:1;transform:none}}</style>
+<rect x="0.5" y="0.5" width="649" height="497" rx="8" fill="#0d1117" stroke="#30363d"/>
+<circle cx="22" cy="21" r="6" fill="#ff5f57"/><circle cx="42" cy="21" r="6" fill="#febc2e"/><circle cx="62" cy="21" r="6" fill="#28c840"/>
+<text x="325" y="26" text-anchor="middle" fill="#8b949e">bhavya@github</text>
+<line x1="1" y1="40" x2="649" y2="40" stroke="#30363d"/>
+<g class="ln" style="animation-delay:0.15s"><text x="24" y="72" fill="#58a6ff">bhavya@github</text><text x="24" y="88" fill="#8b949e">-------------</text></g>
+<g class="ln" style="animation-delay:0.46s"><text x="24" y="118.15"><tspan fill="#39d353">Name</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">Bhavya</tspan></text></g>
+<g class="ln" style="animation-delay:0.61s"><text x="24" y="145.15"><tspan fill="#39d353">Location</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">India</tspan></text></g>
+<g class="ln" style="animation-delay:0.77s"><text x="24" y="172.15"><tspan fill="#39d353">Role</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">AI/ML Engineer · Builder</tspan></text></g>
+<g class="ln" style="animation-delay:1.07s"><text x="24" y="211.3"><tspan fill="#39d353">Built</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">Project QUANTEX — AI technical support</tspan></text></g>
+<g class="ln" style="animation-delay:1.23s"><text x="130" y="238.3" fill="#8b949e">multilingual diagnostics · technician matching</text></g>
+<g class="ln" style="animation-delay:1.38s"><text x="24" y="265.3"><tspan fill="#39d353">Also</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">AI agents · automation · ML systems</tspan></text></g>
+<g class="ln" style="animation-delay:1.54s"><text x="130" y="292.3" fill="#8b949e">startups · experiments · questionable ideas</text></g>
+<g class="ln" style="animation-delay:1.84s"><text x="24" y="331.45"><tspan fill="#39d353">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">Python · C++ · Java · Machine Learning</tspan></text></g>
+<g class="ln" style="animation-delay:2.00s"><text x="24" y="358.45"><tspan fill="#39d353">Tools</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">GitHub · FastAPI · Ollama · AWS</tspan></text></g>
+<g class="ln" style="animation-delay:2.15s"><text x="24" y="385.45"><tspan fill="#39d353">Focus</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">AI/ML · intelligent automation</tspan></text></g>
+<g class="ln" style="animation-delay:2.46s"><text x="24" y="424.59999999999997"><tspan fill="#39d353">Education</tspan><tspan fill="#8b949e">: </tspan><tspan x="130" fill="#c9d1d9">BSc Data Science @ IIT Madras</tspan></text></g>
+<g class="ln" style="animation-delay:2.76s"><rect x="205" y="457.59999999999997" width="30" height="16" fill="#ff7b72"/><rect x="235" y="457.59999999999997" width="30" height="16" fill="#ffa657"/><rect x="265" y="457.59999999999997" width="30" height="16" fill="#d29922"/><rect x="295" y="457.59999999999997" width="30" height="16" fill="#39d353"/><rect x="325" y="457.59999999999997" width="30" height="16" fill="#58a6ff"/><rect x="355" y="457.59999999999997" width="30" height="16" fill="#bc8cff"/><rect x="385" y="457.59999999999997" width="30" height="16" fill="#f778ba"/><rect x="415" y="457.59999999999997" width="30" height="16" fill="#c9d1d9"/></g>
+</svg>
